@@ -4,6 +4,6 @@ st3 = sorted(input("Enter 3rd sting: "))
 if st1==st2 and st2==st3:
     print("Strings are Anagram")
 else:
-    print("Not Anagram")
+    print("String is Not Anagram")
 
 
